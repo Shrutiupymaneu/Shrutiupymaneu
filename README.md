@@ -134,39 +134,6 @@ A web-based visualizer that helps users understand searching algorithms through 
 
 ---
 
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA" />
-<img src="https://img.shields.io/badge/Problem%20Solving-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shrutiupymaneu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiupymaneu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiupymaneu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
